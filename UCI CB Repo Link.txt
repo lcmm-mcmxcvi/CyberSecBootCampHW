@@ -1,1 +1,4 @@
-https://uci.bootcampcontent.com/UCI-Coding-Bootcamp/uci-irv-cyber-pt-03-2020-u-c
+git pull https://uci.bootcampcontent.com/UCI-Coding-Bootcamp/uci-irv-cyber-pt-03-2020-u-c
+git commit -m "<Date>"
+git push -u origin master
+
